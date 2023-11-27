@@ -1,11 +1,12 @@
+## NAME: AVINASH T
+## ROLL NO : 23014109
+
+
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
 ## AIM
-
 To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## REQUIREMENTS
-
   1. Autodesk fusion 360
   2. Windows 10
   3. 16 GB of RAM (integrated graphics recommend 2 GB or more)
@@ -42,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![image](https://github.com/AVINASH05T/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151514286/eb638645-a097-418e-83c7-7484b318a08c)
+![image](https://github.com/AVINASH05T/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151514286/2a54887e-ae7f-4e01-9d48-832f5a5f60da)
 
 
 ## RESULT
